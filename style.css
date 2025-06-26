@@ -1,7 +1,7 @@
 
     body {
       font-family: system-ui, sans-serif;
-      background: #f4f4f7;
+      background: #090919;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -12,7 +12,7 @@
     .card {
       background: #dc4848;
       padding: 2rem 2.5rem;
-      border-radius: 12px;
+      border-radius: 10px;
       box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
       text-align: center;
       width: 320px;
